@@ -33,7 +33,7 @@ ____
 
 ##### (Place holder)
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gzZ21sP/image-12.png" alt="image-12" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png" alt="image-12" border="0"></a>
 
 ________
 ##### Statistical Analysis
@@ -47,11 +47,11 @@ ________
 * 
 * 
 
-<a href="https://ibb.co/kqwWCbF"><img src="https://i.ibb.co/r5z1r8J/image-13.png" alt="image-13" border="0"></a>
+<a href="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png"><img src="" border="0"></a>
 ________
 #### Business model
 
-As the alzheimer’s disease is one of those diseases where more than $ 244 billion is spent every year for talking care of theese patients and the amount of time spent is 18.6 billion hrs which is more than the gdp of our country and the fact that providing aid to such a multi billion dollar industry  would not only benefit it the customers but even would help us produce a large amount of cash flow which can be actually implemented for further goals and this might sound very fancy and inspiring but there is something which will actually blow your mind cause you might think that buying such a product will be too expensive but trust us when we say that the actuall cost for building the product is as low as $ 30 to $ 50 and as an extra passive income our idea is to have ola or uber as our affiliated partner , so everytime someone books a cab from our app,we get affiliated money from our partner.This not only gives us a passive income but also helps our customer to stand on his own feet   
+   
 
 
 _________
@@ -69,11 +69,3 @@ ________
 ________
 #### (Place holder)
 
-
-
-[![Smriti](https://i.ibb.co/41PprLq/Frame-6.png)](https://youtu.be/3DI4dbW0epc "Smriti")
-______
-
-### Creators
-
-<a href="https://ibb.co/JvnBhNq"><img src="https://i.ibb.co/v31wtbh/A4-5.png" alt="A4-5" border="0" width="2500"></a>

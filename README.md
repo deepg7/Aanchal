@@ -31,16 +31,15 @@ _________
 ____
 #### Aanchal working
 
-When a user logs in the website we take their picture and analyse their emotions and according to that we show relevant webpages.This process is so special because its so simplistic as well as does not have a lot of questions involved.
+we have developed this web app as a healthcare application, it offers complete privacy,accesibility,empathy,portability, and is lightweight as well as easy to use to have outreach among rural population, through this webapp user can take take self asessment by clicking thier picture. When a user logs in the website we take their picture and analyse their emotions and according to that we show relevant webpages.This process is so special because its so simplistic as well as does not have a lot of questions involved.
 * Login into the webapp .\
-
 * A camera opens up to take your picture as soon as you enter the app.
 * From the image captured we recognise your emotions.
 * Based on that we will display a range webpages according to your mood
 * If you are happy we display articles which have content regarding self help.
 * If you are sad we dislplay articles which have content to uplift your mood.
 * If you are very upset we display articles which calm you down.(We also provide a 24 hour helpline KIRAN)
-* Then we map the user's data for a period of 30 days and show him his usage data as graphs and if you are continuously experiencing sad episodes we will recommend you to get professional help.
+* and at the same time the data gets saved in a database over a period of 30 days over a period of 30 days after which he is offered a evaluation and if his emotional status is above 50% sadness for 2/3rd of the days, the user is advised for getting professional medical help
 _________
 ##### (Place holder)
 

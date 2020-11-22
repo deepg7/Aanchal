@@ -57,12 +57,12 @@ ________
 * Leading mental health problems of the older adults are depression, organic brain syndromes and dementias which are more prevalent in women.
 * An estimated 80% of 50 million people affected by violent conflicts, civil wars, disasters, and displacement are women Lifetime prevalence rate of violence against women is as high as 50%.
 * At least one in five women suffer rape or attempted rape in their lifetime.
-*One in six people aged 10-19 years is suffering from depression
-*Mental health conditions account for 16 per cent of the global burden of disease and injury in people aged 10-19 years
-*Half of all mental health conditions start by the age of 14 years and most cases are undetected and untreated
-*Globally, depression is one of the leading causes of illness and disability among adolescents
-*Suicide is the third leading cause of death among 15-19-year-olds.
-*The consequences of not addressing adolescent mental health conditions extend to adulthood, impairing both physical and mental health and limiting opportunities to lead fulfilling lives as adults
+* One in six people aged 10-19 years is suffering from depression
+* Mental health conditions account for 16 per cent of the global burden of disease and injury in people aged 10-19 years
+* Half of all mental health conditions start by the age of 14 years and most cases are undetected and untreated
+* Globally, depression is one of the leading causes of illness and disability among adolescents
+* Suicide is the third leading cause of death among 15-19-year-olds.
+* The consequences of not addressing adolescent mental health conditions extend to adulthood, impairing both physical and mental health and limiting opportunities to lead fulfilling lives as adults
  
 <a href="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png"><img src="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png" border="0"></a>
 ________

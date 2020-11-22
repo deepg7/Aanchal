@@ -1,3 +1,6 @@
+function run(){
+  window.open('https://youtu.be/mYt7NwunB7o')
+}
 const autha = firebase.auth()
 const db =firebase.firestore()
 const content=document.querySelector("#content");

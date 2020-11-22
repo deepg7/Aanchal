@@ -31,7 +31,7 @@ _________
 ____
 #### Aanchal working
 
-we have developed this web app as a healthcare application, it offers complete privacy,accesibility,empathy,portability, and is lightweight as well as easy to use to have outreach among rural population, through this webapp user can take take self asessment by clicking thier picture. When a user logs in the website we take their picture and analyse their emotions and according to that we show relevant webpages.This process is so special because its so simplistic as well as does not have a lot of questions involved.
+We have developed this web app as a healthcare application, it offers complete privacy,accesibility,empathy,portability, and is lightweight as well as easy to use to have outreach among rural population, through this webapp user can take take self asessment by clicking thier picture. When a user logs in the website we take their picture and analyse their emotions and according to that we show relevant webpages.This process is so special because its so simplistic as well as does not have a lot of questions involved.
 * Login into the webapp .\
 * A camera opens up to take your picture as soon as you enter the app.
 * From the image captured we recognise your emotions.
@@ -39,20 +39,20 @@ we have developed this web app as a healthcare application, it offers complete p
 * If you are happy we display articles which have content regarding self help.
 * If you are sad we dislplay articles which have content to uplift your mood.
 * If you are very upset we display articles which calm you down.(We also provide a 24 hour helpline KIRAN)
-* and at the same time the data gets saved in a database over a period of 30 days over a period of 30 days after which he is offered a evaluation and if his emotional status is above 50% sadness for 2/3rd of the days, the user is advised for getting professional medical help
+* And at the same time the data gets saved in a database over a period of 30 days over a period of 30 days after which he is offered a evaluation and if his emotional status is above 50% sadness for 2/3rd of the days, the user is advised for getting professional medical help
 _________
 ##### Depression
 
 Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Fortunately, it is also treatable. Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. It can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home.
 <p> symptoms </p>
 
-* change in sleep pattern
+* Change in sleep pattern
 * Feeling sad or having a depressed mood
 * Loss of interest or pleasure in activities once enjoyed
 * Changes in appetite — weight loss or gain unrelated to dieting
 * Increase in purposeless physical activity (e.g., inability to sit still, pacing, handwringing) or slowed movements or speech (these actions must be severe enough to be observable by others)
 * Thoughts of death or suicide
-<p>The budget for tackling depression presented by union government is mere 50crores</p>
+<p>The budget for tackling depression presented by union government is mere 50 crores</p>
 
 ________
 ##### Statistical Analysis
@@ -78,8 +78,11 @@ ________
 * Illiterate population.
 ________
 
-#### Snaps for our self help pages
+#### Links for our self help pages
 <a href=""><img src="https://64.media.tumblr.com/15e38a0de7ec91f684e1fc2cf41a6bb3/2ef503074746647d-2b/s1280x1920/4558dcba55ba165f3845cb555ffb3f87d4d5f457.png" alt="" border="0" width = "2000"></a>
+<p>page1:https://srm.animaapp.io/happy </p>
+<p>page2:https://srm.animaapp.io/sad </p>
+<p>page2:https://srm.animaapp.io/critical </p>
 ________
 #### Creators
 * Aman 

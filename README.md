@@ -1,11 +1,11 @@
 
 # Aanchal<a href="https://youtu.be/mYt7NwunB7o"><img src="https://64.media.tumblr.com/f0bf325b0ce73bd3712d353deb151db6/acb1123b433a7b5d-e6/s1280x1920/19652ff247c46dccbaa7c8dd2b5a4388744bef40.png" alt="Frame-9" border="0" width = "2000"></a>
 ### Table of Contents
-* About 
+* About the Product
 * Built With
-* Working 
-* Depression
+* working 
 * Statistical analysis
+* Business Model
 * Target Audience.
 * links for our self help pages
 __________
@@ -31,7 +31,7 @@ _________
 * Google Firebase
 
 ____
-#### Working
+#### Aanchal working
 
 We have developed this web app as a healthcare application, it offers complete privacy,accesibility,empathy,portability, and is lightweight as well as easy to use to have outreach among rural population, through this webapp user can take take self asessment by clicking thier picture. When a user logs in the website we take their picture and analyse their emotions and according to that we show relevant webpages.This process is so special because its so simplistic as well as does not have a lot of questions involved.
 * Login into the webapp .
@@ -94,4 +94,4 @@ ________
 * Kartikeya 
 * Vineet
 
-<p><a href=""><img src="https://64.media.tumblr.com/bb4c90591734d192900c08b095bfdec6/8d250162a65ec3d3-f8/s540x810/f3ad9ca5e9b6e8a1c2eab282f1d5c07929ae9579.jpg" alt="" border="0"></a></p>
+<p><a href=""><img src="https://64.media.tumblr.com/3f6cdf1e4719d5786bc702d851f338f8/ce22254b091a2a88-70/s540x810/6ac5009c7ab863d766961cb4241ac6848ed98a9d.jpg" alt="" border="0"></a></p>

@@ -26,6 +26,7 @@ _________
 * Python 
 * HTML 
 * CSS
+* Google Firebase
 
 ____
 #### Aanchal working

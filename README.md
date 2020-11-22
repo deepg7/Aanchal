@@ -43,9 +43,7 @@ ________
 * At least one in five women suffer rape or attempted rape in their lifetime.
 * 93% rural areas do not have pshychiatric clinic
 * 
-* 
-* 
-* 
+
 <a href="https://64.media.tumblr.com/a9fe0895369c8d22b6345a524e1b81be/120a0e24f87aa474-22/s1280x1920/b418f8fda448673054d711a0352c549c9fa3a31e.jpg" alt="image-13" border="0"></a>
 ________
 #### Business model

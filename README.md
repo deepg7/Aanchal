@@ -32,7 +32,7 @@ ____
 #### Aanchal working
 
 We have developed this web app as a healthcare application, it offers complete privacy,accesibility,empathy,portability, and is lightweight as well as easy to use to have outreach among rural population, through this webapp user can take take self asessment by clicking thier picture. When a user logs in the website we take their picture and analyse their emotions and according to that we show relevant webpages.This process is so special because its so simplistic as well as does not have a lot of questions involved.
-* Login into the webapp .\
+* Login into the webapp .
 * A camera opens up to take your picture as soon as you enter the app.
 * From the image captured we recognise your emotions.
 * Based on that we will display a range webpages according to your mood

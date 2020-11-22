@@ -11,8 +11,8 @@
 __________
 #### About the Product
 
-It is meant for people who are likely to suffer from Depression or are actually suffering from Depression.
-Aanchal is a emotional recognition web app that maps the mental profile of the user and suggests relevant articles for self help and uplifting mood.It acts a first response system for critical situations.It also helps in diagnosis of potential cases of depression and mental disorder.
+
+Aanchal is a emotional recognition web app that maps the mental profile of the user and suggests relevant articles for self help and uplifting mood.It acts a first response system for critical situations.It also helps in diagnosis of potential cases of depression and mental disorder.It is meant for people who are likely to suffer from Depression or are actually suffering from Depression.
 _________
 
 #### Built with

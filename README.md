@@ -94,4 +94,4 @@ ________
 * Kartikeya 
 * Vineet
 
-<p><a href=""><img src="https://64.media.tumblr.com/f0bf325b0ce73bd3712d353deb151db6/acb1123b433a7b5d-e6/s1280x1920/19652ff247c46dccbaa7c8dd2b5a4388744bef40.png" alt="" border="0"></a></p>
+<p><a href=""><img src="https://64.media.tumblr.com/bb4c90591734d192900c08b095bfdec6/8d250162a65ec3d3-f8/s540x810/f3ad9ca5e9b6e8a1c2eab282f1d5c07929ae9579.jpg" alt="" border="0"></a></p>

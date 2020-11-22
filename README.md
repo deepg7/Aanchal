@@ -1,11 +1,11 @@
 
 # Aanchal<a href="https://youtu.be/mYt7NwunB7o"><img src="https://64.media.tumblr.com/f0bf325b0ce73bd3712d353deb151db6/acb1123b433a7b5d-e6/s1280x1920/19652ff247c46dccbaa7c8dd2b5a4388744bef40.png" alt="Frame-9" border="0" width = "2000"></a>
 ### Table of Contents
-* About the Product
+* About 
 * Built With
-* working 
+* Working 
+* Depression
 * Statistical analysis
-* Business Model
 * Target Audience.
 * links for our self help pages
 __________
@@ -31,7 +31,7 @@ _________
 * Google Firebase
 
 ____
-#### Aanchal working
+#### Working
 
 We have developed this web app as a healthcare application, it offers complete privacy,accesibility,empathy,portability, and is lightweight as well as easy to use to have outreach among rural population, through this webapp user can take take self asessment by clicking thier picture. When a user logs in the website we take their picture and analyse their emotions and according to that we show relevant webpages.This process is so special because its so simplistic as well as does not have a lot of questions involved.
 * Login into the webapp .

@@ -1,5 +1,5 @@
 # aanchalprod
-# Aanchal<a href="https://ibb.co/6yK5wnV"><img src="https://64.media.tumblr.com/f0bf325b0ce73bd3712d353deb151db6/acb1123b433a7b5d-e6/s1280x1920/19652ff247c46dccbaa7c8dd2b5a4388744bef40.png" alt="Frame-9" border="0" width = "2000"></a>
+# Aanchal<a href="" alt="Frame-9" border="0" width = "2000"></a>
 ### Table of Contents
 * About the Product
 * Built With
@@ -32,15 +32,15 @@ ____
 #### Aanchal working
 
 When a user logs in the website we take their picture and analyse their emotions and according to that we show relevant webpages.This process is so special because its so simplistic as well as does not have a lot of questions involved.
-*Login into the webapp .\
+* Login into the webapp .\
 
-*A camera opens up to take your picture as soon as you enter the app.
-*From the image captured we recognise your emotions.
-*Based on that we will display a range webpages according to your mood
-*If you are happy we display articles which have content regarding self help.
-*If you are sad we dislplay articles which have content to uplift your mood.
-*If you are very upset we display articles which calm you down.(We also provide a 24 hour helpline KIRAN)
-*Then we map the user's data for a period of 30 days and show him his usage data as graphs and if you are continuously experiencing sad episodes we will recommend you to get professional help.
+* A camera opens up to take your picture as soon as you enter the app.
+* From the image captured we recognise your emotions.
+* Based on that we will display a range webpages according to your mood
+* If you are happy we display articles which have content regarding self help.
+* If you are sad we dislplay articles which have content to uplift your mood.
+* If you are very upset we display articles which calm you down.(We also provide a 24 hour helpline KIRAN)
+* Then we map the user's data for a period of 30 days and show him his usage data as graphs and if you are continuously experiencing sad episodes we will recommend you to get professional help.
 _________
 ##### (Place holder)
 

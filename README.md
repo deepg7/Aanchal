@@ -46,8 +46,7 @@ ________
 * 
 * 
 * 
-
-<a href="https://64.media.tumblr.com/a9fe0895369c8d22b6345a524e1b81be/120a0e24f87aa474-22/s1280x1920/b418f8fda448673054d711a0352c549c9fa3a31e.jpg"><img src="" border="0"></a>
+<a href="https://64.media.tumblr.com/a9fe0895369c8d22b6345a524e1b81be/120a0e24f87aa474-22/s1280x1920/b418f8fda448673054d711a0352c549c9fa3a31e.jpg" alt="Frame-7" border="0"></a>
 ________
 #### Business model
 

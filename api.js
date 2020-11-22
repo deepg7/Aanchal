@@ -36,14 +36,18 @@ function processImage() {
         $("#responseTextArea").val(JSON.stringify(data,null,2));
      
         var happy = JSON.stringify(data[0].faceAttributes.emotion.happiness);
-     var sad = JSON.stringify(data[0].faceAttributes.emotion.sadness);
+      var sad = JSON.stringify(data[0].faceAttributes.emotion.sadness);
       var neu=JSON.stringify(data[0].faceAttributes.emotion.neutral);
+      var anger = JSON.stringify(data[0].faceAttributes.emotion.anger);
+      var fear = JSON.stringify(data[0].faceAttributes.emotion.fear);
        console.log(happy)
        console.log(sad)
        console.log(neu)
        window.alert("happiness="+happy*100 +"\n"+
        "sadness="+sad*100 + "\n"+
-       "neutral expression="+neu*100)
+       "neutral="+neu*100 +"\n"+
+       "fear=" + fear*100 + "\n"+
+       "anger="+ anger*100)
       
       if (happy>sad){
            window.open('https://srm.animaapp.io/happy','_blank')

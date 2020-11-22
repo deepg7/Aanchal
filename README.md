@@ -44,6 +44,8 @@ We have developed this web app as a healthcare application, it offers complete p
 _________
 ##### Depression
 
+<a href=""><img src="https://th.bing.com/th/id/OIP.463SO4c9CFLtf4fVBo3q4gHaE7?w=265&h=180&c=7&o=5&dpr=1.25&pid=1.7" alt="Frame-7" border="0"></a>
+
 Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. It can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home.
 <p> symptoms </p>
 

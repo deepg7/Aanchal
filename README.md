@@ -60,12 +60,6 @@ ________
  
 <a href="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png"><img src="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png" border="0"></a>
 ________
-#### Business model
-
-   
-
-
-_________
 
 #### Target Audience
 * Women.

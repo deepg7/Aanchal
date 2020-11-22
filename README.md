@@ -82,7 +82,7 @@ ________
 <a href=""><img src="https://64.media.tumblr.com/15e38a0de7ec91f684e1fc2cf41a6bb3/2ef503074746647d-2b/s1280x1920/4558dcba55ba165f3845cb555ffb3f87d4d5f457.png" alt="" border="0" width = "2000"></a>
 <p>page1:https://srm.animaapp.io/happy </p>
 <p>page2:https://srm.animaapp.io/sad </p>
-<p>page2:https://srm.animaapp.io/critical </p>
+<p>page3:https://srm.animaapp.io/critical </p>
 
 ________
 

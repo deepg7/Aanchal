@@ -41,9 +41,15 @@ we have developed this web app as a healthcare application, it offers complete p
 * If you are very upset we display articles which calm you down.(We also provide a 24 hour helpline KIRAN)
 * and at the same time the data gets saved in a database over a period of 30 days over a period of 30 days after which he is offered a evaluation and if his emotional status is above 50% sadness for 2/3rd of the days, the user is advised for getting professional medical help
 _________
-##### (Place holder)
+##### Depression
 
-<a href=""><img src="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png" alt="image-12" border="0"></a>
+Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Fortunately, it is also treatable. Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. It can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home.
+<p> **symptoms** </p>
+* Feeling sad or having a depressed mood
+* Loss of interest or pleasure in activities once enjoyed
+* Changes in appetite — weight loss or gain unrelated to dieting
+* Increase in purposeless physical activity (e.g., inability to sit still, pacing, handwringing) or slowed movements or speech (these actions must be severe enough to be observable by others)
+* Thoughts of death or suicide
 
 ________
 ##### Statistical Analysis

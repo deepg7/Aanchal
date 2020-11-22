@@ -15,7 +15,7 @@ __________
 Aanchal is a emotional recognition web app that maps the mental profile of the user and suggests relevant articles for self help and uplifting mood.It acts a first response system for critical situations.It also helps in diagnosis of potential cases of depression and mental disorder.It is meant for people who are likely to suffer from Depression or are actually suffering from Depression.
 _________
 
-#### Built with
+#### 
 <a href=""><img src="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png" alt="Frame-7" border="0"></a>
 
 * Azure 

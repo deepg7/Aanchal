@@ -79,8 +79,11 @@ ________
 ________
 
 #### Links for our self help pages
-<a href=""><img src="https://64.media.tumblr.com/15e38a0de7ec91f684e1fc2cf41a6bb3/2ef503074746647d-2b/s1280x1920/4558dcba55ba165f3845cb555ffb3f87d4d5f457.png" alt="Frame-9" border="0" width = "2000"></a>
+<a href=""><img src="https://64.media.tumblr.com/f0bf325b0ce73bd3712d353deb151db6/acb1123b433a7b5d-e6/s1280x1920/19652ff247c46dccbaa7c8dd2b5a4388744bef40.png" alt="Frame-9" border="0" width = "2000"></a>
 ________
-#### (Place holder)
-
+#### Creators
+* Aman 
+* Deep 
+* Kartikeya 
+* Vineet
 <a href=""><img src="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png" alt="image-12" border="0"></a>

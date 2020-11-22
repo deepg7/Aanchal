@@ -5,7 +5,6 @@
 * Built With
 * working 
 * Statistical analysis
-* Business Model
 * Target Audience.
 * links for our self help pages
 __________
@@ -68,6 +67,8 @@ ________
 * Globally, depression is one of the leading causes of illness and disability among adolescents
 * Suicide is the third leading cause of death among 15-19-year-olds.
 * The consequences of not addressing adolescent mental health conditions extend to adulthood, impairing both physical and mental health and limiting opportunities to lead fulfilling lives as adults
+<p>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539868/</p>
+<p>http://origin.searo.who.int/india/topics/depression/about_depression/en/</p>
  
 <a href="https://64.media.tumblr.com/a9fe0895369c8d22b6345a524e1b81be/120a0e24f87aa474-22/s1280x1920/b418f8fda448673054d711a0352c549c9fa3a31e.jpg"><img src="https://64.media.tumblr.com/a9fe0895369c8d22b6345a524e1b81be/120a0e24f87aa474-22/s1280x1920/b418f8fda448673054d711a0352c549c9fa3a31e.jpg" border="0"></a>
 ________

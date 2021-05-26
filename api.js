@@ -1,6 +1,6 @@
 function processImage() {
     var subscriptionKey = '893897cdc79a4741a85775809bc1c3c1';
-    var uriBase = "https://southeastasia.api.cognitive.microsoft.com/face/v1.0/detect?returnFaceId=true&returnFaceLandmarks=false&recognitionModel=recognition_03&returnRecognitionModel=false";
+    var uriBase = //insert API KEY
 
     // Request parameters.
     
